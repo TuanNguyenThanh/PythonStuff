@@ -1,0 +1,523 @@
+<head>
+                <meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+                <style>
+                    .bold {
+                        font-weight:bold;
+                    }
+                </style></head><style>col {mso-width-source:auto;} table {font-family:Times New Roman;font-size:13px}</style><table id='tb_main_title' style='border-collapse: collapse;' name='tb_main_title' width='750' class="table-print-title" >
+<thead>
+<tr><th colspan='2'  align='center' nowrap='1' ><span class="logo_left" nowrap="true"><font style="font-weight:normal;">ĐẠI HỌC ĐÀ NẴNG</font><br/>TRƯỜNG ĐẠI HỌC SƯ PHẠM</span><br/></th><th colspan='7'  align='center' nowrap='1' ><span class="logo_right" style=" " nowrap="true">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br/>Độc lập - Tự do - Hạnh phúc</span><br/></th></tr>
+<tr><th colspan='7'  align='center' valign='bottom'  class='bold main_title' style='height:35px'>DANH SÁCH LỚP HỌC PHẦN</th></tr>
+<tr><th colspan='7'  align='center'  class='bold'>Học kỳ: 1 Năm học 2019-2020</th></tr>
+<tr><th colspan='4'  align='left'  class='bold'>Mã học phần: 31231755</th><th colspan='3'  align='left'  class='bold'>Tên học phần: Thiết kế và lập trình web</th></tr>
+<tr><th colspan='4'  align='left'  class='bold'>Số tín chỉ: 3</th><th colspan='3'  align='left'  class='bold'>Nhóm học phần: 03</th></tr>
+</thead></table><table id='tb_main_body' style='border-collapse: collapse;' name='tb_main_body' width='750' class="table-print" border="1" >
+<thead>
+<tr><th width='2%' align="center" >STT</th><th align="center" >Mã SV</th><th colspan='2'  align="center" >Họ và tên</th><th align="center" >Ngày sinh</th><th align="center" >Lớp SH</th><th align="center" >Ghi chú</th></tr>
+</thead><tr class="body">
+<td  align='center' width='5%' class = 'bold' >1</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217027</td>
+<td  align='left' style='padding-left: 5px;' >Ngô Thị Kiều</td>
+<td  align='left' style='padding-left: 5px;' >Dung</td>
+<td  align='center' style='mso-number-format:\@;' >22-12-1999</td>
+<td  align='center' >17CNTT3</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >2</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217220</td>
+<td  align='left' style='padding-left: 5px;' >Deng</td>
+<td  align='left' style='padding-left: 5px;' >Phommachac</td>
+<td  align='center' style='mso-number-format:\@;' >03-05-1997</td>
+<td  align='center' >17CNTT3</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >3</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217166</td>
+<td  align='left' style='padding-left: 5px;' >Võ Thị Thu</td>
+<td  align='left' style='padding-left: 5px;' >Thảo</td>
+<td  align='center' style='mso-number-format:\@;' >09-03-1999</td>
+<td  align='center' >17CNTT3</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >4</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217221</td>
+<td  align='left' style='padding-left: 5px;' >Boudtalath</td>
+<td  align='left' style='padding-left: 5px;' >Thony</td>
+<td  align='center' style='mso-number-format:\@;' >31-07-1998</td>
+<td  align='center' >17CNTT3</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >5</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217177</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Thị Hoài</td>
+<td  align='left' style='padding-left: 5px;' >Thương</td>
+<td  align='center' style='mso-number-format:\@;' >02-01-1999</td>
+<td  align='center' >17CNTT3</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >6</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217204</td>
+<td  align='left' style='padding-left: 5px;' >Phạm Văn</td>
+<td  align='left' style='padding-left: 5px;' >Tú</td>
+<td  align='center' style='mso-number-format:\@;' >02-07-1999</td>
+<td  align='center' >17CNTT3</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >7</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217003</td>
+<td  align='left' style='padding-left: 5px;' >Hoàng Thị Lan</td>
+<td  align='left' style='padding-left: 5px;' >Anh</td>
+<td  align='center' style='mso-number-format:\@;' >20-11-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >8</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217018</td>
+<td  align='left' style='padding-left: 5px;' >Khổng Thị Anh</td>
+<td  align='left' style='padding-left: 5px;' >Đào</td>
+<td  align='center' style='mso-number-format:\@;' >02-06-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >9</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217036</td>
+<td  align='left' style='padding-left: 5px;' >Ngô Tấn Minh</td>
+<td  align='left' style='padding-left: 5px;' >Giang</td>
+<td  align='center' style='mso-number-format:\@;' >14-05-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >10</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217100</td>
+<td  align='left' style='padding-left: 5px;' >Hứa Thị</td>
+<td  align='left' style='padding-left: 5px;' >Linh</td>
+<td  align='center' style='mso-number-format:\@;' >04-07-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >11</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217107</td>
+<td  align='left' style='padding-left: 5px;' >Doãn Thị Ánh</td>
+<td  align='left' style='padding-left: 5px;' >Ly</td>
+<td  align='center' style='mso-number-format:\@;' >22-04-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >12</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217109</td>
+<td  align='left' style='padding-left: 5px;' >Trần Quang</td>
+<td  align='left' style='padding-left: 5px;' >Minh</td>
+<td  align='center' style='mso-number-format:\@;' >21-08-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >13</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217137</td>
+<td  align='left' style='padding-left: 5px;' >Cao Văn</td>
+<td  align='left' style='padding-left: 5px;' >Quốc</td>
+<td  align='center' style='mso-number-format:\@;' >16-12-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >14</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217140</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Minh</td>
+<td  align='left' style='padding-left: 5px;' >Quyền</td>
+<td  align='center' style='mso-number-format:\@;' >06-03-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >15</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217147</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Trung</td>
+<td  align='left' style='padding-left: 5px;' >Sỹ</td>
+<td  align='center' style='mso-number-format:\@;' >17-08-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >16</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217152</td>
+<td  align='left' style='padding-left: 5px;' >Lê Trọng</td>
+<td  align='left' style='padding-left: 5px;' >Tài</td>
+<td  align='center' style='mso-number-format:\@;' >30-03-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >17</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217156</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Nhân</td>
+<td  align='left' style='padding-left: 5px;' >Tâm</td>
+<td  align='center' style='mso-number-format:\@;' >01-01-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >18</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217167</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Thị Thu</td>
+<td  align='left' style='padding-left: 5px;' >Thảo</td>
+<td  align='center' style='mso-number-format:\@;' >27-09-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >19</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217179</td>
+<td  align='left' style='padding-left: 5px;' >Lê Thị</td>
+<td  align='left' style='padding-left: 5px;' >Thủy</td>
+<td  align='center' style='mso-number-format:\@;' >01-01-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >20</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217183</td>
+<td  align='left' style='padding-left: 5px;' >Lê Văn</td>
+<td  align='left' style='padding-left: 5px;' >Tịnh</td>
+<td  align='center' style='mso-number-format:\@;' >02-02-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >21</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217194</td>
+<td  align='left' style='padding-left: 5px;' >Lê Nguyễn Quyền</td>
+<td  align='left' style='padding-left: 5px;' >Trang</td>
+<td  align='center' style='mso-number-format:\@;' >03-09-1999</td>
+<td  align='center' >17CNTT2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >22</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217013</td>
+<td  align='left' style='padding-left: 5px;' >Đặng Thị Lam</td>
+<td  align='left' style='padding-left: 5px;' >Chiều</td>
+<td  align='center' style='mso-number-format:\@;' >23-11-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >23</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217033</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Thị Thanh</td>
+<td  align='left' style='padding-left: 5px;' >Duyên</td>
+<td  align='center' style='mso-number-format:\@;' >27-06-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >24</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217038</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Thị Thanh</td>
+<td  align='left' style='padding-left: 5px;' >Hà</td>
+<td  align='center' style='mso-number-format:\@;' >01-10-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >25</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217043</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Thị</td>
+<td  align='left' style='padding-left: 5px;' >Hằng</td>
+<td  align='center' style='mso-number-format:\@;' >18-11-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >26</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217044</td>
+<td  align='left' style='padding-left: 5px;' >Phan Thị Thu</td>
+<td  align='left' style='padding-left: 5px;' >Hằng</td>
+<td  align='center' style='mso-number-format:\@;' >10-10-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >27</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217052</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Trường</td>
+<td  align='left' style='padding-left: 5px;' >Hiếu</td>
+<td  align='center' style='mso-number-format:\@;' >19-03-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >28</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217058</td>
+<td  align='left' style='padding-left: 5px;' >Huỳnh Huy</td>
+<td  align='left' style='padding-left: 5px;' >Hoàng</td>
+<td  align='center' style='mso-number-format:\@;' >26-11-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >29</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217096</td>
+<td  align='left' style='padding-left: 5px;' >Phạm Thùy</td>
+<td  align='left' style='padding-left: 5px;' >Linh</td>
+<td  align='center' style='mso-number-format:\@;' >29-09-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >30</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217110</td>
+<td  align='left' style='padding-left: 5px;' >Cáp</td>
+<td  align='left' style='padding-left: 5px;' >Minh</td>
+<td  align='center' style='mso-number-format:\@;' >05-03-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >31</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217119</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Thị Bích</td>
+<td  align='left' style='padding-left: 5px;' >Ngọc</td>
+<td  align='center' style='mso-number-format:\@;' >10-12-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >32</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217120</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Thị Ánh</td>
+<td  align='left' style='padding-left: 5px;' >Nguyệt</td>
+<td  align='center' style='mso-number-format:\@;' >10-01-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >33</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217142</td>
+<td  align='left' style='padding-left: 5px;' >Võ Thanh</td>
+<td  align='left' style='padding-left: 5px;' >Sơn</td>
+<td  align='center' style='mso-number-format:\@;' >04-10-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >34</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217163</td>
+<td  align='left' style='padding-left: 5px;' >Đặng Công</td>
+<td  align='left' style='padding-left: 5px;' >Thành</td>
+<td  align='center' style='mso-number-format:\@;' >19-12-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >35</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217160</td>
+<td  align='left' style='padding-left: 5px;' >Trần Thị Kim</td>
+<td  align='left' style='padding-left: 5px;' >Thanh</td>
+<td  align='center' style='mso-number-format:\@;' >15-03-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >36</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217165</td>
+<td  align='left' style='padding-left: 5px;' >Văn Thị</td>
+<td  align='left' style='padding-left: 5px;' >Thảo</td>
+<td  align='center' style='mso-number-format:\@;' >08-05-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >37</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217168</td>
+<td  align='left' style='padding-left: 5px;' >Võ Thị Thanh</td>
+<td  align='left' style='padding-left: 5px;' >Thảo</td>
+<td  align='center' style='mso-number-format:\@;' >24-07-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >38</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217169</td>
+<td  align='left' style='padding-left: 5px;' >Đinh Hữu</td>
+<td  align='left' style='padding-left: 5px;' >Thiện</td>
+<td  align='center' style='mso-number-format:\@;' >30-01-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >39</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217191</td>
+<td  align='left' style='padding-left: 5px;' >Phan Thị Huyền</td>
+<td  align='left' style='padding-left: 5px;' >Trang</td>
+<td  align='center' style='mso-number-format:\@;' >22-04-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >40</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120217199</td>
+<td  align='left' style='padding-left: 5px;' >Lê Tiến</td>
+<td  align='left' style='padding-left: 5px;' >Trường</td>
+<td  align='center' style='mso-number-format:\@;' >27-10-1999</td>
+<td  align='center' >17CNTT1</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >41</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117002</td>
+<td  align='left' style='padding-left: 5px;' >Trần Đức</td>
+<td  align='left' style='padding-left: 5px;' >Chuẩn</td>
+<td  align='center' style='mso-number-format:\@;' >17-05-1997</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >42</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117003</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Thị Khánh</td>
+<td  align='left' style='padding-left: 5px;' >Duyên</td>
+<td  align='center' style='mso-number-format:\@;' >17-03-1999</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >43</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117005</td>
+<td  align='left' style='padding-left: 5px;' >Thiều Quang</td>
+<td  align='left' style='padding-left: 5px;' >Hiệp</td>
+<td  align='center' style='mso-number-format:\@;' >03-11-1997</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >44</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117006</td>
+<td  align='left' style='padding-left: 5px;' >Nghiêm Thị Thu</td>
+<td  align='left' style='padding-left: 5px;' >Hoà</td>
+<td  align='center' style='mso-number-format:\@;' >01-07-1999</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >45</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117011</td>
+<td  align='left' style='padding-left: 5px;' >Lê Thị Ngọc</td>
+<td  align='left' style='padding-left: 5px;' >Huyền</td>
+<td  align='center' style='mso-number-format:\@;' >13-06-1999</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >46</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117012</td>
+<td  align='left' style='padding-left: 5px;' >Trần Diệu</td>
+<td  align='left' style='padding-left: 5px;' >Linh</td>
+<td  align='center' style='mso-number-format:\@;' >20-04-1990</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >47</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117013</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Văn</td>
+<td  align='left' style='padding-left: 5px;' >Mạnh</td>
+<td  align='center' style='mso-number-format:\@;' >10-01-1998</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >48</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117015</td>
+<td  align='left' style='padding-left: 5px;' >Đoàn Ngọc</td>
+<td  align='left' style='padding-left: 5px;' >Nhân</td>
+<td  align='center' style='mso-number-format:\@;' >07-10-1999</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >49</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117021</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Phạm Công</td>
+<td  align='left' style='padding-left: 5px;' >Thành</td>
+<td  align='center' style='mso-number-format:\@;' >15-02-1999</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >50</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117023</td>
+<td  align='left' style='padding-left: 5px;' >Trương Công</td>
+<td  align='left' style='padding-left: 5px;' >Thuận</td>
+<td  align='center' style='mso-number-format:\@;' >02-03-1999</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >51</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >3120117025</td>
+<td  align='left' style='padding-left: 5px;' >Vũ Thị</td>
+<td  align='left' style='padding-left: 5px;' >Tiên</td>
+<td  align='center' style='mso-number-format:\@;' >30-04-1999</td>
+<td  align='center' >17SPT</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >52</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >311033151104</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Vũ</td>
+<td  align='left' style='padding-left: 5px;' >Duy</td>
+<td  align='center' style='mso-number-format:\@;' >31-08-1996</td>
+<td  align='center' >15CTUD2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >53</td>
+<td  nowrap='true' align='left' width='5%' style='padding-left: 5px; mso-number-format:\@;' >311033151128</td>
+<td  align='left' style='padding-left: 5px;' >Nguyễn Hương</td>
+<td  align='left' style='padding-left: 5px;' >Phúc</td>
+<td  align='center' style='mso-number-format:\@;' >27-02-1997</td>
+<td  align='center' >15CTUD2</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+</table><table id='tb_main_footer_notes' name='tb_main_footer_notes' width='750' class="table-print-footer_notes" >
+<tr >
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' class = 'sign' >Danh sách này có: 53 sinh viên đăng ký học</td>
+</tr>
+<tr >
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  nowrap='true' align='center' >Đà Nẵng, Ngày&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tháng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;năm 20....</td>
+</tr>
+<tr >
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  nowrap='true' align='center' ><b>Cán bộ giảng dạy</b></td>
+</tr>
+<tr >
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  align='left' width='70%' style='font-weight:bold' class = 'sign' >&nbsp;</td>
+<td  nowrap='true' align='center' ><i>(Ký và ghi rõ họ tên)</i></td>
+</tr>
+</table>

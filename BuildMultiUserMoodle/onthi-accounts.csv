@@ -1,0 +1,56 @@
+username,password,firstname,lastname,email,course1
+cb1,1998-03-02 00:00:00,1,  Đỗ Thị Thành   Mỹ,cb1@email.com,cccnttcb
+cb2,1998-01-02 00:00:00,2,  Hoàng Hà   My,cb2@email.com,cccnttcb
+cb3,1998-09-01 00:00:00,3,  Chế Ngọc   Mỹ,cb3@email.com,cccnttcb
+cb4,1998-04-14 00:00:00,4,  Lê Thị Nguyễn   My,cb4@email.com,cccnttcb
+cb5,1994-04-01 00:00:00,5,  Nguyễn Thị   Nga,cb5@email.com,cccnttcb
+cb6,1997-12-09 00:00:00,6,  Nguyễn Thị Thanh   Ngọc,cb6@email.com,cccnttcb
+cb7,1998-03-23 00:00:00,7,  Trần Nguyễn Trung   Nguyên,cb7@email.com,cccnttcb
+cb8,1998-03-08 00:00:00,8,  Nguyễn Thị Thảo   Nguyên,cb8@email.com,cccnttcb
+cb9,1998-10-12 00:00:00,9,  Trịnh Xuân   Nhân,cb9@email.com,cccnttcb
+cb10,1997-12-21 00:00:00,10,  Nguyễn Thị Hoài   Nhi,cb10@email.com,cccnttcb
+cb11,1998-08-15 00:00:00,11,  Nguyễn Thị Trung   Nhi,cb11@email.com,cccnttcb
+cb12,1998-04-30 00:00:00,12,  Nguyễn Thị Hồng   Nhung,cb12@email.com,cccnttcb
+cb13,1998-06-29 00:00:00,13,  Nguyễn Võ Tố   Nữ,cb13@email.com,cccnttcb
+cb14,1998-06-26 00:00:00,14,  Phạm Thị Hồng   Oanh,cb14@email.com,cccnttcb
+cb15,1996-11-23 00:00:00,15,  Lê Đoàn Thanh   Phương,cb15@email.com,cccnttcb
+cb16,1998-05-14 00:00:00,16,  Hồ Thị Thu   Phương,cb16@email.com,cccnttcb
+cb17,1998-05-08 00:00:00,17,  Nguyễn Thị Kim   Phượng,cb17@email.com,cccnttcb
+cb18,1998-12-27 00:00:00,18,  Lê Thị Nhật   Phương,cb18@email.com,cccnttcb
+cb19,1998-03-18 00:00:00,19,  Đặng Thị Lan   Phương,cb19@email.com,cccnttcb
+cb20,1989-09-24 00:00:00,20,  Nguyễn Mai   Phương,cb20@email.com,cccnttcb
+cb21,1998-09-02 00:00:00,21,  Phan Thị Kim   Sơn,cb21@email.com,cccnttcb
+cb22,1991-08-01 00:00:00,22,  Nguyễn Thị Thu   Sương,cb22@email.com,cccnttcb
+cb23,1981-09-26 00:00:00,23,  Đinh Văn   Tạc,cb23@email.com,cccnttcb
+cb24,1998-02-03 00:00:00,24,  Trần Thị   Tâm,cb24@email.com,cccnttcb
+cb25,1998-10-01 00:00:00,25,  Nguyễn Xuân   Thái,cb25@email.com,cccnttcb
+cb26,1997-11-08 00:00:00,26,  Nguyễn Thị Phương   Thảo,cb26@email.com,cccnttcb
+cb27,1998-07-25 00:00:00,27,  Nguyễn Thị Ngọc   Thảo,cb27@email.com,cccnttcb
+cb28,1984-08-10 00:00:00,28,  Nguyễn Thị   Thư,cb28@email.com,cccnttcb
+cb29,1998-01-19 00:00:00,29,  Nguyễn Thị Minh   Thư,cb29@email.com,cccnttcb
+cb30,1998-08-22 00:00:00,30,  Phạm Thị   Thu,cb30@email.com,cccnttcb
+cb31,1974-04-18 00:00:00,31,  Ngô Thị   Thuận,cb31@email.com,cccnttcb
+cb32,1998-04-15 00:00:00,32,  Phạm Thị   Thương,cb32@email.com,cccnttcb
+cb33,1998-09-03 00:00:00,33,  Nguyễn Thị Hoài   Thương,cb33@email.com,cccnttcb
+cb34,1998-09-12 00:00:00,34,  Trần Thu   Thuỳ,cb34@email.com,cccnttcb
+cb35,1992-04-14 00:00:00,35,  Phạm Thị Quỳnh   Tiên,cb35@email.com,cccnttcb
+cb36,1998-07-08 00:00:00,36,  Đặng Đình   Tiến,cb36@email.com,cccnttcb
+cb37,1998-02-14 00:00:00,37,  Nguyễn Thị Kim   Tình,cb37@email.com,cccnttcb
+cb38,1998-02-10 00:00:00,38,  Nguyễn Thị   Tình,cb38@email.com,cccnttcb
+cb39,1998-04-05 00:00:00,39,  Nguyễn Bích   Trâm,cb39@email.com,cccnttcb
+cb40,1997-12-15 00:00:00,40,  Nguyễn Thanh   Trang,cb40@email.com,cccnttcb
+cb41,1998-06-29 00:00:00,41,  Phạm Nguyễn Ngọc   Trinh,cb41@email.com,cccnttcb
+cb42,1998-10-05 00:00:00,42,  Phạm Thị Hồng   Trinh,cb42@email.com,cccnttcb
+cb43,1996-11-20 00:00:00,43,  Le Thi Tuyet   Trinh,cb43@email.com,cccnttcb
+cb44,1998-01-14 00:00:00,44,  Trịnh Thị Ngọc   Tú,cb44@email.com,cccnttcb
+cb45,1985-02-12 00:00:00,45,  Hoàng Anh   Tuấn,cb45@email.com,cccnttcb
+cb46,1995-05-10 00:00:00,46,  Đào Thị   Tuyết,cb46@email.com,cccnttcb
+cb47,1994-11-04 00:00:00,47,  Lê Thị   Uyên,cb47@email.com,cccnttcb
+cb48,1997-04-29 00:00:00,48,  Huỳnh Thị Ngọc   Vân,cb48@email.com,cccnttcb
+cb49,1997-10-03 00:00:00,49,  Nguyễn Thị Tường   Vi,cb49@email.com,cccnttcb
+cb50,1998-02-08 00:00:00,50,  Nguyễn Thị Tường   Vi,cb50@email.com,cccnttcb
+cb51,1998-11-16 00:00:00,51,  Nguyễn Văn   Vũ,cb51@email.com,cccnttcb
+cb52,1997-04-10 00:00:00,52,  Trần Hàn Phong   Vũ,cb52@email.com,cccnttcb
+cb53,1998-03-20 00:00:00,53,  Phạm Thị Tường   Vy,cb53@email.com,cccnttcb
+cb54,1997-11-25 00:00:00,54,  Bùi Thị Tường   Vy,cb54@email.com,cccnttcb
+cb55,1997-12-25 00:00:00,55,  Phan Thị Thanh   Yên,cb55@email.com,cccnttcb
